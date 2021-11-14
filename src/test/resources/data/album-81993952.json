@@ -1,0 +1,332 @@
+{
+  "id": 81993952,
+  "title": "Monkeys in Bercy",
+  "upc": "3596972884191",
+  "link": "http:\/\/www.deezer.com\/album\/81993952",
+  "share": "https:\/\/www.deezer.com\/album\/81993952?utm_source=deezer&utm_content=album-81993952&utm_term=0_1635767072&utm_medium=web",
+  "cover": "http:\/\/api.deezer.com\/2.0\/album\/81993952\/image",
+  "cover_small": "http:\/\/e-cdn-images.dzcdn.net\/images\/cover\/27833a5aa7fb39ea668fe6b3d90a69b7\/56x56-000000-80-0-0.jpg",
+  "cover_medium": "http:\/\/e-cdn-images.dzcdn.net\/images\/cover\/27833a5aa7fb39ea668fe6b3d90a69b7\/250x250-000000-80-0-0.jpg",
+  "cover_big": "http:\/\/e-cdn-images.dzcdn.net\/images\/cover\/27833a5aa7fb39ea668fe6b3d90a69b7\/500x500-000000-80-0-0.jpg",
+  "cover_xl": "http:\/\/e-cdn-images.dzcdn.net\/images\/cover\/27833a5aa7fb39ea668fe6b3d90a69b7\/1000x1000-000000-80-0-0.jpg",
+  "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+  "genre_id": 152,
+  "genres": {
+    "data": [
+      {
+        "id": 152,
+        "name": "Rock",
+        "picture": "http:\/\/api.deezer.com\/2.0\/genre\/152\/image",
+        "type": "genre"
+      }
+    ]
+  },
+  "label": "T\u00f4t Ou Tard",
+  "nb_tracks": 12,
+  "duration": 3404,
+  "fans": 4797,
+  "release_date": "2013-11-18",
+  "record_type": "album",
+  "available": true,
+  "tracklist": "http:\/\/api.deezer.com\/2.0\/album\/81993952\/tracks",
+  "explicit_lyrics": false,
+  "explicit_content_lyrics": 0,
+  "explicit_content_cover": 2,
+  "contributors": [
+    {
+      "id": 83325,
+      "name": "Shaka Ponk",
+      "link": "http:\/\/www.deezer.com\/artist\/83325",
+      "share": "https:\/\/www.deezer.com\/artist\/83325?utm_source=deezer&utm_content=artist-83325&utm_term=0_1635767072&utm_medium=web",
+      "picture": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/image",
+      "picture_small": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/56x56-000000-80-0-0.jpg",
+      "picture_medium": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/250x250-000000-80-0-0.jpg",
+      "picture_big": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/500x500-000000-80-0-0.jpg",
+      "picture_xl": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/1000x1000-000000-80-0-0.jpg",
+      "radio": true,
+      "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+      "type": "artist",
+      "role": "Main"
+    }
+  ],
+  "artist": {
+    "id": 83325,
+    "name": "Shaka Ponk",
+    "picture": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/image",
+    "picture_small": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/56x56-000000-80-0-0.jpg",
+    "picture_medium": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/250x250-000000-80-0-0.jpg",
+    "picture_big": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/500x500-000000-80-0-0.jpg",
+    "picture_xl": "http:\/\/e-cdn-images.dzcdn.net\/images\/artist\/02e237973b38db56e35e9eac2ab9671a\/1000x1000-000000-80-0-0.jpg",
+    "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+    "type": "artist"
+  },
+  "type": "album",
+  "tracks": {
+    "data": [
+      {
+        "id": 605637462,
+        "readable": true,
+        "title": "Intro (Live)",
+        "title_short": "Intro",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637462",
+        "duration": 154,
+        "rank": 336288,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-8.deezer.com\/stream\/c-841484a5831c5fd4c8246cc752d72c3a-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637472,
+        "readable": true,
+        "title": "Shiza Radio (Live)",
+        "title_short": "Shiza Radio",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637472",
+        "duration": 283,
+        "rank": 365665,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-0.deezer.com\/stream\/c-09f1fc55616be6cfea49a12aac8dcbc6-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637482,
+        "readable": true,
+        "title": "Reset After All (Live)",
+        "title_short": "Reset After All",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637482",
+        "duration": 245,
+        "rank": 353692,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-8.deezer.com\/stream\/c-88d26a25d4f28f45d3715c03f35fb620-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637492,
+        "readable": true,
+        "title": "Hombre Que Soy (Live)",
+        "title_short": "Hombre Que Soy",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637492",
+        "duration": 209,
+        "rank": 366427,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-e.deezer.com\/stream\/c-e3da9e050802ab76f56557b6e65702d4-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637502,
+        "readable": true,
+        "title": "Twisted Minda (Live)",
+        "title_short": "Twisted Minda",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637502",
+        "duration": 272,
+        "rank": 399025,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-4.deezer.com\/stream\/c-49d40bff5358ae6cabf8700afee46a7f-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637512,
+        "readable": true,
+        "title": "Doors (Live)",
+        "title_short": "Doors",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637512",
+        "duration": 76,
+        "rank": 250416,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-d.deezer.com\/stream\/c-d0b5cd4ef2ae5cc6749513d346a16033-6.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637522,
+        "readable": true,
+        "title": "Sex Ball (Live)",
+        "title_short": "Sex Ball",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637522",
+        "duration": 639,
+        "rank": 389409,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-7.deezer.com\/stream\/c-7979c8fe35b61c017c23d709dc1e7b38-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637532,
+        "readable": true,
+        "title": "I'm Picky (Live)",
+        "title_short": "I'm Picky",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637532",
+        "duration": 240,
+        "rank": 391557,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-a.deezer.com\/stream\/c-a6738a2e7294e555a5821150f21065cb-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637542,
+        "readable": true,
+        "title": "Let's Bang (Live)",
+        "title_short": "Let's Bang",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637542",
+        "duration": 300,
+        "rank": 323322,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-e.deezer.com\/stream\/c-ebf673ce311fa11b40cfcd616c450ca4-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637552,
+        "readable": true,
+        "title": "My Name Is Stain (Live)",
+        "title_short": "My Name Is Stain",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637552",
+        "duration": 233,
+        "rank": 373371,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-b.deezer.com\/stream\/c-b581051b92c38d03c78bce1b2e2d4acd-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637562,
+        "readable": true,
+        "title": "Lady (Live)",
+        "title_short": "Lady",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637562",
+        "duration": 429,
+        "rank": 248238,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-1.deezer.com\/stream\/c-1c2c6780471c833d8a0b254fb066718b-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      },
+      {
+        "id": 605637572,
+        "readable": true,
+        "title": "Spit (Live)",
+        "title_short": "Spit",
+        "title_version": "(Live)",
+        "link": "http:\/\/www.deezer.com\/track\/605637572",
+        "duration": 324,
+        "rank": 284986,
+        "explicit_lyrics": false,
+        "explicit_content_lyrics": 0,
+        "explicit_content_cover": 2,
+        "preview": "http:\/\/cdn-preview-9.deezer.com\/stream\/c-9e4fc97b4ce95b50e1c5a269851e8acf-5.mp3",
+        "md5_image": "27833a5aa7fb39ea668fe6b3d90a69b7",
+        "artist": {
+          "id": 83325,
+          "name": "Shaka Ponk",
+          "tracklist": "http:\/\/api.deezer.com\/2.0\/artist\/83325\/top?limit=50",
+          "type": "artist"
+        },
+        "type": "track"
+      }
+    ]
+  }
+}

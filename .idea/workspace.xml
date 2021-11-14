@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="496a897e-c4a1-45fd-b51a-0c0ec9882e8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1n4I5H9jaGzOyMvbgjmclQ0OAQC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/fr/ensim/tp/xmjson/deezer/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/uml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/uml" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/src/test/resources/data" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/img" />
+      <recent name="$PROJECT_DIR$/src/test/resources/data" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fr.ensim.tp.xmjson.deezer.service.stax" />
+      <recent name="fr.ensim.tp.xmjson.deezer.service.json" />
+      <recent name="fr.ensim.tp.xmjson.deezer.service.dom" />
+      <recent name="fr.ensim.tp.xmjson.deezer.service.sax" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.ensim.tp.xmjson.deezer.service.stax" />
+      <recent name="fr.ensim.tp.xmjson.deezer.service.json" />
+      <recent name="fr.ensim.tp.xmjson.deezer.service.dom" />
+      <recent name="fr.ensim.tp.xmjson.deezer.sax" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.ensim.tp.xmjson.deezer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fr.ensim.tp.xmjson.deezer.Main" />
+      <module name="tp-deezer4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ensim.tp.xmjson.deezer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DOMSearchTrackTest.readTracks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-deezer4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ensim.tp.xmjson.deezer.service.dom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.ensim.tp.xmjson.deezer.service.dom" />
+      <option name="MAIN_CLASS_NAME" value="fr.ensim.tp.xmjson.deezer.service.dom.DOMSearchTrackTest" />
+      <option name="METHOD_NAME" value="readTracks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONSearchAlbumsTest.testReadAlbums" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-deezer4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ensim.tp.xmjson.deezer.service.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.ensim.tp.xmjson.deezer.service.json" />
+      <option name="MAIN_CLASS_NAME" value="fr.ensim.tp.xmjson.deezer.service.json.JSONSearchAlbumsTest" />
+      <option name="METHOD_NAME" value="testReadAlbums" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSONSearchTrackTest.readTracks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-deezer4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ensim.tp.xmjson.deezer.service.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.ensim.tp.xmjson.deezer.service.json" />
+      <option name="MAIN_CLASS_NAME" value="fr.ensim.tp.xmjson.deezer.service.json.JSONSearchTrackTest" />
+      <option name="METHOD_NAME" value="readTracks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StAXSearchTrackTest.readTracks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tp-deezer4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.ensim.tp.xmjson.deezer.service.stax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.ensim.tp.xmjson.deezer.service.stax" />
+      <option name="MAIN_CLASS_NAME" value="fr.ensim.tp.xmjson.deezer.service.stax.StAXSearchTrackTest" />
+      <option name="METHOD_NAME" value="readTracks" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.StAXSearchTrackTest.readTracks" />
+        <item itemvalue="JUnit.JSONSearchAlbumsTest.testReadAlbums" />
+        <item itemvalue="JUnit.JSONSearchTrackTest.readTracks" />
+        <item itemvalue="JUnit.DOMSearchTrackTest.readTracks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="496a897e-c4a1-45fd-b51a-0c0ec9882e8b" name="Default Changelist" comment="" />
+      <created>1610642752314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610642752314</updated>
+      <workItem from="1610642753883" duration="6579000" />
+      <workItem from="1610654264007" duration="7614000" />
+      <workItem from="1610706833729" duration="1110000" />
+      <workItem from="1610707969538" duration="1228000" />
+      <workItem from="1610712089978" duration="651000" />
+      <workItem from="1610713159246" duration="179000" />
+      <workItem from="1611132975942" duration="4430000" />
+      <workItem from="1611414026840" duration="634000" />
+      <workItem from="1611501089697" duration="24000" />
+      <workItem from="1635762378191" duration="8917000" />
+      <workItem from="1635773130298" duration="18935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/fr/ensim/tp/xmjson/deezer/Main.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
